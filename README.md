@@ -7,7 +7,7 @@ this is a experimental code for show message Dialog and get event on OK-Cancel b
 
 Requires
 -------------
-*<http://cocos2d-x.org/> - using cocos2d-x 2.x
+* <http://cocos2d-x.org/> - using cocos2d-x 2.x
 
 License and author
 -------------
